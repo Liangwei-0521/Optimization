@@ -21,4 +21,4 @@ Implement heuristic optimization algorithms using python, including particle swa
 
 
 ### Product
-Design a Web Demo based on Graph to implement a miniaturized combinatorial optimization solver. 
+Design a Web Demo based on Gradio to implement a miniaturized combinatorial optimization solver （Web demo.py). 

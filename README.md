@@ -10,4 +10,11 @@ Implement heuristic optimization algorithms using python, including particle swa
 
 #### · simulated annealing algorithm
 
-#### …… 
+#### . ant colony optimization
+
+
+### Case
+
+#### . VRP
+#### . Power dispatching
+#### . Large-scale portfolio optimization

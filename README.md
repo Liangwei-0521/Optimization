@@ -18,3 +18,7 @@ Implement heuristic optimization algorithms using python, including particle swa
 #### . VRP
 #### . Power dispatching
 #### . Large-scale portfolio optimization
+
+
+### Product
+Design a Web Demo based on Graph to implement a miniaturized combinatorial optimization solver. 
